@@ -14,3 +14,5 @@ Y para construir el build
 npm run build
 ```
 
+Verificar el gitignore /node y /dist 
+
