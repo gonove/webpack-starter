@@ -14,5 +14,7 @@ Y para construir el build
 npm run build
 ```
 
-Verificar el gitignore /node y /dist 
+Verificar el gitignore /node y /dist
+
+Recordar de exports los archivos CSS al index.js para que renderice el DIST
 
